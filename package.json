@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maellingson.github.io/Clicky-Game",
+  "homepage": "https://maellingsonprojects.github.io/Clicky-Game",
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
